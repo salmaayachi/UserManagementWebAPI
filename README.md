@@ -40,7 +40,7 @@ This project is a simple User Management system built with ASP.NET Core Web API 
     - The API will run at `http://localhost:5089` (or another port if specified).
 
 3. **Open the Front-End**:
-    - Open the `index.html` file located in the `wwwroot` folder in your web browser.
+    - Open the `index.html` file located in the `wwwroot` folder in your web browser. (http://localhost:5089/index.html)
     - Interact with the API using the forms and buttons provided in the front end.
 
 ### API Endpoints
@@ -58,12 +58,4 @@ This project is a simple User Management system built with ASP.NET Core Web API 
 - **CORS Errors**: Ensure CORS is enabled in `Program.cs` to allow cross-origin requests.
 - **Database Connection Issues**: Double-check the connection string in `appsettings.json`.
 
-### Acknowledgments
-- ASP.NET Core and Entity Framework Core Documentation
-- alwaysdata.com for providing MySQL hosting
 
-### Contact
-If you have any questions or need further assistance, feel free to reach out:
-- **Your Name**: Selma
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
