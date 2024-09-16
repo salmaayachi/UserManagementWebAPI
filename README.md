@@ -28,8 +28,8 @@ This project is a simple User Management system built with ASP.NET Core Web API 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/salmaayachi/UserManagementWebAPI.git
+    cd UserManagementWebAPI
     ```
 
 2. **Run the API**:
